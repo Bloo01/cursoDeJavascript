@@ -27,7 +27,7 @@ console.log(pessoa1.nome, pessoa2.nome)
 
 const pessoaN = {
   nome: 'Thresh',
-  sobrenome: 'Chains',
+  sobrenome: 'Chain',
   idade: 111,
 
   fala() {
